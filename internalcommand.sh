@@ -1,0 +1,1 @@
+clang -### main.m -o main

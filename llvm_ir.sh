@@ -1,0 +1,1 @@
+clang -S -fobjc-arc -emit-llvm main.m -o main.ll

@@ -1,0 +1,1 @@
+clang -fmodules -fsyntax-only -Xclang -dump-tokens main.m

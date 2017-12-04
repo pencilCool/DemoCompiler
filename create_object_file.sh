@@ -1,0 +1,1 @@
+clang -fmodules -c main.m -o main.o

@@ -1,0 +1,1 @@
+clang -S -fobjc-arc main.m -o main.s

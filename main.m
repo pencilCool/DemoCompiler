@@ -5,9 +5,9 @@ int main(){
     @autoreleasepool {
         int eight = DEFINEEight;
         int six = 6;
-        NSString* site = [[NSString alloc] initWithUTF8String:”starming”];
+        NSString* site = [[NSString alloc] initWithUTF8String:"starming"];
         int rank = eight + six;
-        NSLog(@“%@ rank %d”, site, rank);
+        NSLog(@"%@ rank %d", site, rank);
     }
     return 0;
 }
